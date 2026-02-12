@@ -10,3 +10,9 @@ public void GetData()
 {
 
 }
+
+
+public class UIManager
+{
+
+}
